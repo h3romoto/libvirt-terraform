@@ -1,0 +1,8 @@
+cloud_init.cfg
+default.xml
+libvirt.tf
+main.tf
+README.md
+./terraform.tfstate
+./terraform.tfstate.backup
+./terraform.tfvars
